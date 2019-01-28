@@ -11,8 +11,9 @@ export class HomePage {
 
   constructor(
     private camera: Camera,
+    private file: File,
   ) {
-    this.camera.getPicture
+
   }
 
 }
